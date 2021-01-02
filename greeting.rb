@@ -1,3 +1,3 @@
 def greeting
-  10.timesputs "Hello World"
+  10.times { puts "Hello World" }
 end
